@@ -1,0 +1,46 @@
+{
+  "credentials": [
+    {
+      "id": 1,
+      "nama": "test123",
+      "url": "https://testurl.com",
+      "username": "test username",
+      "password": "Test password"
+    },
+    {
+      "id": 2,
+      "nama": "test123",
+      "url": "https://testurl.com",
+      "username": "test username",
+      "password": "Test password"
+    },
+    {
+      "id": 3,
+      "nama": "test123",
+      "url": "https://testurl.com",
+      "username": "test username",
+      "password": "Test password"
+    },
+    {
+      "nama": "Test app 1",
+      "url": "https://testurl.com",
+      "username": "Fata",
+      "password": "Fata123",
+      "id": 4
+    },
+    {
+      "nama": "afsajfop",
+      "url": "afkhasklhf",
+      "username": "afsahfsah",
+      "password": "fahfaafahk",
+      "id": 5
+    },
+    {
+      "nama": "123123",
+      "url": "123123",
+      "username": "123123",
+      "password": "123123",
+      "id": 6
+    }
+  ]
+}
